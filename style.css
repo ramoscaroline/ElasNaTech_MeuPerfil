@@ -82,6 +82,10 @@ h3{
     text-align: center;
 }
 
+.post-title{
+    min-height: 80px;
+}
+
 .post{
     padding: 20px;
     background-color: #AEEB7A;
